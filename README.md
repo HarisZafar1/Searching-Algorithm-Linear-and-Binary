@@ -86,4 +86,5 @@ Author
 
 Connect with me on LinkedIn for updates and more projects!
 
+https://www.linkedin.com/posts/haris-zafar-814588347_github-hariszafar1searching-algorithm-linear-and-binary-activity-7286773754750210049-j3D9?utm_source=share&utm_medium=member_android
 
